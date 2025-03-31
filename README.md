@@ -16,3 +16,6 @@ Um die Markdown Datei leichter bearbeiten zu können, github.dev als Editor nutz
 Im Dev-Modus lassen sich auch workflows zur Qualitätskontrolle implementieren. Hierfür neuen Ordner anlegen github mit Unterordner Workflows: dort werden *.yaml-Datein abgelegt (z. B. spellcheck, siehe https://liascript.github.io/blog/quality-checks-on-liascript-with-github-ensuring-document-excellence/)
 
 PDF to Markdown oder Word to Markdown  verwenden, um Dokumente aus Word oder PDF in Markdwon abzuspeichern
+
+###Hausaufgabe
+Ein Dokument von uns in Markdown umsetzen
