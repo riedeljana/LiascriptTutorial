@@ -17,5 +17,5 @@ Im Dev-Modus lassen sich auch workflows zur Qualitätskontrolle implementieren. 
 
 PDF to Markdown oder Word to Markdown  verwenden, um Dokumente aus Word oder PDF in Markdwon abzuspeichern
 
-###Hausaufgabe
+### Hausaufgabe
 Ein Dokument von uns in Markdown umsetzen
