@@ -28,3 +28,4 @@ Audio einfügen `?[Alt-Text] (media/Dateiname.mp3)`
 
 Video einfügen `!?[Alt-Text] (media/Dateiname.mov)`
 
+Liascript-Hilfe: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1
