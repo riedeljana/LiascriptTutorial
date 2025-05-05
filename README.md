@@ -22,7 +22,7 @@ Ein Dokument von uns in Markdown umsetzen
 
 ### Markdown Sprache
 
-Bilder einfügen ![Alt-Text](media/Dateiname.png)
+Bilder einfügen '![Alt-Text](media/Dateiname.png)'
 
 Audio einfügen ?[Alt-Text] (media/Dateiname.mp3)
 
