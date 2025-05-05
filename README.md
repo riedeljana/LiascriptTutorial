@@ -24,7 +24,7 @@ Ein Dokument von uns in Markdown umsetzen
 
 Bilder einfügen `![Alt-Text](media/Dateiname.png)`
 
-Audio einfügen ?[Alt-Text] (media/Dateiname.mp3)
+Audio einfügen `[Alt-Text] (media/Dateiname.mp3)`
 
-Video einfügen !?[Alt-Text] (media/Dateiname.mov)
+Video einfügen `!?[Alt-Text] (media/Dateiname.mov)`
 
