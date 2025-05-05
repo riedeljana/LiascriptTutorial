@@ -28,4 +28,10 @@ Audio einfügen `?[Alt-Text] (media/Dateiname.mp3)`
 
 Video einfügen `!?[Alt-Text] (media/Dateiname.mov)`
 
+Sprachausgabe hinzufügen: `{{|>}}`
+
 Liascript-Hilfe: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1
+
+### Workflows umsetzen
+1) Im Dev-Modus neues Unterverzeichnis anlegen (so wie media) .github/workflows
+2) Workflow-Code aus Blogbeitrag (https://liascript.github.io/blog/automating-liascript-transformations-on-github/) kopieren. In neue Datei deploy.yml einfügen. Änderungen hinzufügen.
