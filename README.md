@@ -20,8 +20,11 @@ PDF to Markdown oder Word to Markdown  verwenden, um Dokumente aus Word oder PDF
 ### Hausaufgabe
 Ein Dokument von uns in Markdown umsetzen
 
-###MArkdown Sprache
+### Markdown Sprache
 
 Bilder einfügen ![Alt-Text](media/Dateiname.png)
+
 Audio einfügen ?[Alt-Text] (media/Dateiname.mp3)
+
 Video einfügen !?[Alt-Text] (media/Dateiname.mov)
+
